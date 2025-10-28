@@ -6,6 +6,6 @@ Rahulkrishnan R A is a Sr Platform Engineer. He is an Opensource contributor for
 - [Linkedin](https://www.linkedin.com/in/rahulkrishnanra/)
 - [Credily](https://www.credly.com/users/rahulkrishnanra/)
 - [Conferenence and Meetup Talks](https://speakerdeck.com/rahulkrishnanfs)
-- [Blogging](www.zaagpro.com) WIP
+- [Blogging](http://www.zaagpro.com) 
 
 Contact at rahulkrishnanfs@gmail.com, for training on DevOps.
